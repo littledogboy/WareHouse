@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E043921-7FC2-4931-B45F-BF51BCD3F70A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F9D5640EB1652EEBE74A12B63E06891A0D219EF2</key>
+		<string>https://github.com/RebirthRain/WareHouse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test/Test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F9D5640EB1652EEBE74A12B63E06891A0D219EF2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RebirthRain/WareHouse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9D5640EB1652EEBE74A12B63E06891A0D219EF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9D5640EB1652EEBE74A12B63E06891A0D219EF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WareHouse</string>
+		</dict>
+	</array>
+</dict>
+</plist>

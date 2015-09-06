@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSString *s = @"添加的新的内容";
 }
 
 - (void)didReceiveMemoryWarning {
